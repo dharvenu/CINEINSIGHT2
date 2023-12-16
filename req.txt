@@ -1,0 +1,19 @@
+
+
+# Python version
+pip install python==3.9.7
+
+# Streamlit
+pip install streamlit==1.10.0
+
+# Requests library
+requests==2.26.0
+
+# Matplotlib library
+matplotlib==3.4.3
+
+# Pandas library
+pandas==1.3.3
+
+# NumPy library
+numpy==1.21.2
